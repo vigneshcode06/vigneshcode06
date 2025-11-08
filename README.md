@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DevSecLab](https://github.com/vigneshcode06/DevSecLab)
 
-- 👨‍💻 All of my projects are available at [https://vigneshg.zeal.ninja/](https://vignesh.zeal.ninja/)
+- 👨‍💻 All of my projects are available at [https://vignesh.zeal.ninja/](https://vignesh.zeal.ninja/)
 
 - 📫 How to reach me **vigneshg0624@gmail.com**
 
