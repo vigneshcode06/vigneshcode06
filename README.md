@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm vignesh</h1>
-<h3 align="center">A passionate Web Engineer from India</h3>
+<h3 align="center">A passionate Web Engineer / Ethical Hacker from India</h3>
 
 - 🔭 I’m currently working on [DevSecLab](https://github.com/vigneshcode06/DevSecLab)
 
 - 👨‍💻 All of my projects are available at [https://vigneshg.zeal.ninja/](https://vignesh.zeal.ninja/)
-
-- 💬 Ask me about **Web Development, Databases, and APIs**
 
 - 📫 How to reach me **vigneshg0624@gmail.com**
 
