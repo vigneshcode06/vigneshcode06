@@ -78,6 +78,10 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a> 
+<a href="https://docs.gitlab.com/runner/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab runner" width="40" height="40"/>
+</a>
+
 
 <!-- OS / Tools -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
